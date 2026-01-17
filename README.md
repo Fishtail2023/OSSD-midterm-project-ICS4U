@@ -29,4 +29,3 @@ Milestones:
 3.	Implement the Java program
 4.	Test move validation and board display
 5.	Final review and submission
-
